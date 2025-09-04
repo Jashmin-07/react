@@ -1,0 +1,64 @@
+{
+  "StudentManagement": [
+    {
+      "id": "77c7",
+      "regno": "1",
+      "name": "jashmin",
+      "dob": "2002-03-06",
+      "age": "23",
+      "gender": "Female",
+      "father": "kannan",
+      "standard": "5"
+    },
+    {
+      "id": "c89e",
+      "regno": "2",
+      "name": "santhi",
+      "dob": "2001-03-13",
+      "age": "24",
+      "gender": "Female",
+      "father": "magesh",
+      "standard": "7"
+    },
+    {
+      "id": "73fa",
+      "regno": "3",
+      "name": "bala",
+      "dob": "2018-03-02",
+      "age": "5",
+      "gender": "Male",
+      "father": "kannan",
+      "standard": "3"
+    },
+    {
+      "id": "a808",
+      "regno": "4",
+      "name": "jashminK",
+      "dob": "2025-09-11",
+      "age": "12",
+      "gender": "Female",
+      "father": "magesh",
+      "standard": "5"
+    },
+    {
+      "id": "d489",
+      "regno": "5",
+      "name": "efg",
+      "dob": "2025-09-12",
+      "age": "12",
+      "gender": "Female",
+      "father": "john",
+      "standard": "10"
+    },
+    {
+      "id": "4b0b",
+      "regno": "9",
+      "name": "kjhf",
+      "dob": "2025-09-11",
+      "age": "12",
+      "gender": "Male",
+      "father": "jhgfdsa",
+      "standard": "5"
+    }
+  ]
+}
